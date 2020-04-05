@@ -1,0 +1,28 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+i {
+    color: green;
+}
+i {
+    color: red;
+}
+b {
+    color: pink;
+}
+p b{
+    color: blue !important;
+}
+p b{
+    color: violet; 
+}
+p #intro{
+    font-size: 100%;
+}
+P{
+    font-size: 75%;
+}

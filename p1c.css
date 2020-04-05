@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: aliceblue;
+}
+h2,h3{
+    font-family: helvetica;
+    color: pink;
+}
+.Abc{
+    color: aqua;
+    background-color: burlywood;
+}
+#ty{
+    color: blueviolet;
+    font-size: 23px;
+
+}
+ul>li {
+    color: chartreuse;
+    font-style:italic;
+    size:22px;
+
+}
+p a{
+    color: blue;
+}

@@ -1,0 +1,15 @@
+.AA{
+    background-color:lightblue;
+}
+.BB,sub{
+    background-color: lightgrey;
+}
+h1,h2,h3{
+    color:blueviolet;
+}
+em{
+    color: red;
+}
+sub{
+    color: lightgrey;
+}

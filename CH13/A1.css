@@ -1,0 +1,37 @@
+
+
+#logo{
+   margin-left: 60%;
+}
+ul{
+    list-style-type: none;
+    padding: 25px;
+    width: 590px;
+    /* background-color: red; */
+    margin: 10px auto 0px auto;
+    border-bottom: 3px solid black;
+    border-top: 2px solid grey;
+    
+   
+}
+li{
+    display:inline-block;
+    margin:opx 10px;
+    text-align: center;
+    margin: 0px 35px;
+}
+li:hover{
+    color: red;
+}
+p {
+ text-align: center;
+ width: 600px;
+ margin: 20px auto 20px auto;
+ font-weight: normal;}
+ #AAA{
+    text-align: center;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    font-weight: normal;
+    border: 1px solid grey;
+ }
